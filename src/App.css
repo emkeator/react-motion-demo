@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300');
+
+.App {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.logo {
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+  margin: 5px 0;
+  font-weight: thin;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/*----STAGGERED CSS----*/
+
+.nav {
+  width: 100vw;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0;
+}
+
+.nav a {
+  text-transform: uppercase;
+  font-size: 1rem;
+  text-decoration: none;
+  color: white;
+}
+.nav a:hover {
+  color: #66DBF9
+}
+.wrapper {
+  text-align:center;
+  background:#dbf7ff;
+  display: flex;
+  width: 100vw;
+  min-height: 100vh;
+}
+
+.wrapper h1 {
+  width:100%;
+}
+
+.view-box {
+  overflow:hidden;
+}
+
+.view-body {
+  overflow: hidden;
+  width: 98vw;
+}
+
+.fadeInDiv {
+  color: #222;
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* #66DBF9 */
+/* #83dff7 */
+/* #9fe8fc */
+/* #c9f3ff */
+/* #dbf7ff */
