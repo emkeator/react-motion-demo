@@ -1,6 +1,6 @@
 ## React Motion
 
-This demo shows an example of using React Motion. The transition motion code was taken from the (repo created by Christopher Lemke)[https://github.com/spcbrn/react-motion-sandbox] and then edited for my own styling.
+This demo shows an example of using React Motion. The transition motion code was taken from the [repo created by Christopher Lemke](https://github.com/spcbrn/react-motion-sandbox) and then edited for my own styling.
 
 # Spinning Logo (MotionComponent2.js)
 Normally, the creat-react-app basic page has the logo animated to spin using keyframes. This demo replaces it with a motion component.
@@ -13,8 +13,8 @@ This is just to demonstrate some of the other css properties that you can change
 
 ## Resources
 
-(Brief overview of React Motion)[https://www.pshrmn.com/tutorials/react/animation/react-motion/#springs]
+[Brief overview of React Motion](https://www.pshrmn.com/tutorials/react/animation/react-motion/#springs)
 
-(Similar Example Repo)[https://github.com/spcbrn/react-motion-sandbox]
+[Similar Example Repo](https://github.com/spcbrn/react-motion-sandbox)
 
-(react-motion github)[https://github.com/chenglou/react-motion]
+[react-motion github](https://github.com/chenglou/react-motion)
